@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Geostar&display=swap');
+
+.heading h1 {
+	font-size: 50px;
+	font-weight: normal;
+	font-style: italic;
+	font-family: 'Hanalei', cursive;
+}
+.p1 p {
+	font-family: 'Darker Grotesque', sans-serif;
+}
+.p2 p {
+	font-family: 'Geostar', cursive;
+}
