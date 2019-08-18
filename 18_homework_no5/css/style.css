@@ -1,0 +1,97 @@
+@import url(reset.css);
+body {
+	background-color: #90be6d;
+}
+main {
+	width: 1100px;
+}
+.col1, .col2, .col3{
+	display: inline-block;
+}
+.heading, .footer {
+	 background-color: #ea9010;
+	 height: 50px;
+	 padding: 10px;
+	 box-sizing: border-box;
+}
+h1, .p-footer {
+	font-size: 30px;
+	font-weight: normal;
+	font-family: 'Josefin Sans', sans-serif;
+	}
+.col1 {
+	box-sizing: border-box;
+	box-shadow: 0 0 10px black;
+	border-radius: 20px;
+	height: 500px;
+	width: 250px;
+	background-color: #eaefbd;
+	margin: 30px;
+	padding: 10px;
+	vertical-align: top;
+}
+.h2-col1 {
+	font-size: 25px;
+	font-weight: normal;
+	font-family: 'Josefin Sans', sans-serif;
+	padding: 10px;
+}
+.p-col1 {
+	padding: 10px;
+	font-size: 15px;
+	font-weight: normal;
+	font-family: 'Josefin Sans', sans-serif;
+}
+.col2 {
+	box-sizing: border-box;
+	box-shadow: 0 0 10px black;
+	border-radius: 20px;
+	height: 500px;
+	width: 250px;
+	background-color: #eaefbd;
+	margin: 30px;
+	padding: 10px;
+	vertical-align: top;
+}
+.h2-col2 {
+	font-size: 25px;
+	font-weight: normal;
+	font-family: 'Josefin Sans', sans-serif;
+	padding: 10px;
+}
+.ol-col2 {
+	padding: 10px;
+	font-size: 15px;
+	font-weight: normal;
+	font-family: 'Josefin Sans', sans-serif;
+	list-style: decimal;
+}
+.col3 {
+	box-sizing: border-box;
+	box-shadow: 0 0 10px black;
+	border-radius: 20px;
+	height: 500px;
+	width: 250px;
+	background-color: #eaefbd;
+	margin: 30px;
+	padding: 10px;
+	vertical-align: top;	
+}
+.h2-col3 {
+	font-size: 25px;
+	font-weight: normal;
+	font-family: 'Josefin Sans', sans-serif;
+	padding: 10px;	
+}
+.p-col3 {
+	padding: 10px;
+	font-size: 15px;
+	font-weight: normal;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+
+
+
+
+
